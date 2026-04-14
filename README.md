@@ -1,12 +1,125 @@
-![Background](./Z1.PNG)
+<div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CedricZ1001&bg_color=1c1c1c&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Waving Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:5bcdec&height=120&section=header"/>
 
-| ![CedricZ1001's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CedricZ1001&show_icons=true&theme=tokyonight&rank_icon=github&card_width=700&line_height=55&border_radius=20&size_weight=1) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CedricZ1001&layout=pie&theme=tokyonight&card_width=300&border_radius=20) |
-| :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+<!-- Logo -->
+<img src="./Z1.PNG" width="200"/>
 
-### 🌟 About Me
-- 🌱 Learning **DirectX12** and **UE5 Development**.
-- 🎮 Passionate about game engine development and creating immersive experiences.
-- 📊 Experienced in technical art pipelines, bridging the gap between art and engineering to achieve stunning visuals.
-- 📫 email: Cedric1001Z@gmail.com
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&duration=3000&pause=1000&color=5BCDEC&center=true&vCenter=true&repeat=true&width=650&height=70&lines=UE+Technical+Artist+%F0%9F%8E%A8;UE+AI+Agent+Developer+%F0%9F%A4%96;Game+Developer+%F0%9F%8E%AE;Bridging+Art+%26+Engineering+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=CedricZ1001&color=5bcdec&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## `> whoami`
+
+```yaml
+name: CedricZ1001
+role: UE Technical Artist & AI Agent Developer
+location: ~
+focus:
+  - Unreal Engine Technical Art Pipeline
+  - UE AI Agent Development
+  - Game Development & Immersive Experiences
+  - Graphics Programming (HLSL / DirectX 12)
+motto: "Bridging the gap between Art and Engineering"
+```
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Engine & Graphics**
+
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![DirectX 12](https://img.shields.io/badge/DirectX%2012-006600?style=for-the-badge&logo=directx&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-8B0000?style=for-the-badge&logoColor=white)
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Blueprint](https://img.shields.io/badge/Blueprint-137CBD?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+**Tools & DCC**
+
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Substance](https://img.shields.io/badge/Substance-1A1A2E?style=for-the-badge&logo=adobe&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**AI & ML**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CedricZ1001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=5bcdec&title_color=5bcdec&text_color=c9d1d9&ring_color=5bcdec" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=CedricZ1001&theme=tokyonight&hide_border=true&background=0d1117&ring=5bcdec&fire=5bcdec&currStreakLabel=5bcdec&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=555555" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CedricZ1001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5bcdec&text_color=c9d1d9" />
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CedricZ1001&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" />
+</div>
+
+---
+
+## Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CedricZ1001&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CedricZ1001/CedricZ1001/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CedricZ1001/CedricZ1001/output/github-snake.svg" />
+  <img alt="github-contribution-snake" src="https://raw.githubusercontent.com/CedricZ1001/CedricZ1001/output/github-snake-dark.svg" />
+</picture>
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+[![Email](https://img.shields.io/badge/Gmail-Cedric1001Z@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Cedric1001Z@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-CedricZ1001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CedricZ1001)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<br/>
+
+<!-- Waving Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:5bcdec&height=100&section=footer"/>
+
+</div>
