@@ -105,26 +105,12 @@ motto: "Bridging the gap between Art and Engineering"
 
 ---
 
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CedricZ1001/CedricZ1001/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CedricZ1001/CedricZ1001/output/github-snake.svg" />
-  <img alt="github-contribution-snake" src="https://raw.githubusercontent.com/CedricZ1001/CedricZ1001/output/github-snake-dark.svg" />
-</picture>
-
----
-
 <div align="center">
 
 ### Let's Connect
 
 [![Email](https://img.shields.io/badge/Gmail-Cedric1001Z@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Cedric1001Z@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-CedricZ1001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CedricZ1001)
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 <br/>
 
