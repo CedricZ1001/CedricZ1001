@@ -49,6 +49,14 @@
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CedricZ1001/CedricZ1001/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CedricZ1001/CedricZ1001/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/CedricZ1001/CedricZ1001/output/snake.svg" />
+</picture>
+
+<br/><br/>
+
 <img height="165em" src="./profile-summary-card-output/city_lights/3-stats.svg" alt="Stats" />
 <img height="165em" src="./profile-summary-card-output/city_lights/2-most-commit-language.svg" alt="Top Languages" />
 
